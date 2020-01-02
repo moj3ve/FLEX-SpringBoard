@@ -1,0 +1,9 @@
+Package: com.bandar.flex
+Name: flex
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: tweak to implement flex in springboard
+Maintainer: BandarHelal
+Author: BandarHelal
+Section: Tweaks
